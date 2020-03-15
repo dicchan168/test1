@@ -1,2 +1,3 @@
 new 
 new text2
+line 3
